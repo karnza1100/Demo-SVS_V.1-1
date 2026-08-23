@@ -1,0 +1,69 @@
+{
+  "S01": {
+    "status": true,
+    "detected": "Coke Can",
+    "is_correct": true,
+    "confidence": 0.6139135792826302
+  },
+  "S02": {
+    "status": true,
+    "detected": "Coke Light Can",
+    "is_correct": true,
+    "confidence": 0.6533271728403356
+  },
+  "S03": {
+    "status": true,
+    "detected": "Fanta Grape",
+    "is_correct": true,
+    "confidence": 0.6436192139225058
+  },
+  "S04": {
+    "status": true,
+    "detected": "Fanta Orange Can",
+    "is_correct": true,
+    "confidence": 0.7307422655095914
+  },
+  "S05": {
+    "status": true,
+    "detected": "M150",
+    "is_correct": true,
+    "confidence": 0.4
+  },
+  "S06": {
+    "status": true,
+    "detected": "Meiji Milk",
+    "is_correct": true,
+    "confidence": 0.4
+  },
+  "S07": {
+    "status": true,
+    "detected": "Oishi Rice",
+    "is_correct": true,
+    "confidence": 0.4
+  },
+  "S08": {
+    "status": true,
+    "detected": "Oishi Honey Lemon",
+    "is_correct": true,
+    "confidence": 0.4
+  },
+  "S09": {
+    "status": true,
+    "detected": "Oishi Kyoho",
+    "is_correct": true,
+    "confidence": 0.4
+  },
+  "S10": {
+    "status": true,
+    "detected": "Pepsi Can",
+    "is_correct": true,
+    "confidence": 0.6555919197684861
+  },
+  "S11": {
+    "status": true,
+    "detected": "Sprite Can",
+    "is_correct": true,
+    "confidence": 0.519407072444635
+  },
+  "last_update": "2026-08-23T12:50:28.672047"
+}

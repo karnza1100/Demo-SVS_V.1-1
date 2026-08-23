@@ -1,0 +1,19 @@
+/data_Demo1
+/Demo-V.1-SVS-1
+/index.html
+/stock_vision_app_dynamic.py
+/train_model.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
